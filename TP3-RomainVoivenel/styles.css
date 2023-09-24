@@ -1,0 +1,53 @@
+body{
+  margin: 5em;
+}
+
+header{
+  border-bottom: solid thin;
+}
+
+ul{  
+  padding: 0;
+}
+
+li{
+  margin-right: 2em;
+  margin-top: 1em;
+  list-style-type: none;
+}
+
+main{
+  padding-top: 2em;
+}
+
+article{
+  margin-right: 20%;
+}
+
+footer{
+  padding-top: 1em;
+}
+
+footer > p{
+  margin: 0;
+}
+
+h1, main{
+  border-bottom: solid thick;
+}
+
+h1{
+  font-size: xxx-large;
+}
+
+h1>span{
+  display: block;
+  font-style: italic;
+  color: gray;
+}
+
+img{
+  width: 10px;
+  height: 10px;
+}
+
